@@ -1,0 +1,30 @@
+h1 {
+  color: red;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.banner {
+  width: 100vw;
+  margin: 0%;
+}
+
+h1 {
+  color: #05a791;
+  background-color: #ebefef;
+  background-position: center;
+  font-weight: 700;
+  font-size: 40px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2 {
+  background-color: #05a791;
+  -ms-grid-columns: none;
+      grid-template-columns: none;
+  text-align: justify center;
+}
+/*# sourceMappingURL=estilos.css.map */
